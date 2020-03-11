@@ -1,0 +1,55 @@
+body{
+    background-color: peachpuff ;
+}
+#header{
+    font-size: 36 px ;
+    font-weight: Bold ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Profile-Photo{
+    /* height: 40px;
+    width: 30px; */
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+#exampleInputEmail1{
+width: 60%;
+}
+
+.form-group{
+    width: 70%;
+}
+#message{
+    width: 60%;
+    margin: 0 auto;
+}
+
+#contact-me{
+    margin: 0 auto;
+    width: 60%;
+}
+
+.cards{
+    /* float: left; */
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px:
+}
+
+/* media inquiry to adjust the size of photos, and change backgroound color */
+    @media (max-width: 576px) {
+    body{
+        background-color: pink;
+    }
+    .cards{
+    width: 100%;
+    margin-top: 20px;
+    }
+    #Profile-Photo{
+        width:100%
+    }
+}
