@@ -1,8 +1,18 @@
-# HW2
--Portfolio-ReadMe-03/09/2020
+# Project Name
+> Here goes your awesome project description!
 
-a) What ? Why? How?
+## Table of contents
+* [General-info](#General-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 
+## General-info:
+a)Progress
 1) Created four initial files for html , CSS, JS and Readme , and then two additional html files for portfolio and contact.
 2) linked the css and JS files to the main index.html. and repeat on contact.html and portfolio.html.
 3) Used bootstrap for Navbar and modified it accordingly with wanted tabs such as about, portfolio and contact. Using bootstrap made it easier compared to using CSS on each and every details.
@@ -17,20 +27,49 @@ a) What ? Why? How?
 12)added media on the css file to adjust some changes with screensize change.
 13)css file was quite alot of trying and erasing commands to see the changes, it can be adjusted more.
 
-
-b) What was your motivation? Why did you build this project?
-As a student who is going to graduate from this course, it is absolutely important to have a fabulous portfolio. I need to build this so that I can use it when applying for jobs.
-
-c) What Problem does it solve? 
-This code has the responsive ability, it can customize its sizes depending on changes to the screen.
-d) What did you learn? 
+b) What did you learn? 
 I definitely got more comfortable with using bootstrap, using grid system, adjusting the codes that I copy paste from bootstrap.
 
-e) What makes your project stand out? 
+c) What makes your project stand out? 
 This project is made from scratch and every piece is taken from class lectures. It has been a good attempt to pay attention to details such as portfolio having _blank so that the links will open in a new tab. 
 
-f) Areas of improvement? 
-This is a very basic format of my portfolio. It definitely needs 99 % more adjustments. 
-I need to :
-make the looks of it better by finding better colors and alignment of photos and texts.
-has to improve in terms of adjusting the screen size.
+
+
+## Screenshots
+![Screenshot](assets/images/screenshot1.png)
+![Screenshot](assets/images/screenshot2.png)
+![Screenshot](assets/images/screenshot3.png)
+![Screenshot](assets/images/screenshot4.png)
+
+
+## Technologies
+* Bootstrap for style: [Bootstrap](https://www.trilogyed.com/)
+
+
+## Setup
+To view this portfolio you can click : [here](https://zahraaliaghazadeh.github.io/Portfolio/)
+
+
+
+## Features
+* feature 1: This code has the responsive ability, it can customize its sizes depending on changes to the screen.
+* Awesome feature 2
+* Awesome feature 3
+
+To-do list:
+* improvement to be done 1: make the looks of it better by finding better colors and alignment of photos and texts.
+* improvement to be done 2: has to improve in terms of adjusting the screen size.
+
+
+## Status
+Portfolio is: _in progress_, as there will be more projects in the course to be added.
+
+## Inspiration
+A start to having an outstanding portfolio has been the inspiration.
+
+## Contact
+Email: zahraaliaghazadeh@gmail.com
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/yalda-aghazade-7a9b0390)
+
+feel free to contact me!
