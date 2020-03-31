@@ -53,8 +53,8 @@ To view this portfolio you can click : [here](https://zahraaliaghazadeh.github.i
 
 ## Features
 * feature 1: This code has the responsive ability, it can customize its sizes depending on changes to the screen.
-* Awesome feature 2
-* Awesome feature 3
+* feature 2: responsive tabs to open once clicked for portfolio and contact me.
+
 
 To-do list:
 * improvement to be done 1: make the looks of it better by finding better colors and alignment of photos and texts.
